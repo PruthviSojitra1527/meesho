@@ -1,0 +1,77 @@
+const String username = 'Pruthvi Sojitra',
+    userId = 'pruthvisojitra358@gmail.com';
+const String appname = 'Meesho';
+const String version = 'Version 1.0.0';
+const String email = 'Email';
+const String emailHint = 'admin123@gmail.com';
+const String password = 'PassWord';
+const String oldpassword = 'Old PassWord';
+const String newpassword = 'New PassWord';
+const String passwordHint = '********';
+const String retypepassword = 'Retype PassWord';
+const String name = 'Name';
+const String nameHint = 'Type your name here...';
+const String forgetpass = 'Forget PassWord?';
+const String login = 'LogIn';
+const String signup = 'SignUp';
+const String createNewAccount = 'or, create a new account';
+const String loginwith = 'LogIn with';
+const String privacyPolicy = 'Privacy Policy';
+const String termAndConditon = 'Terms and Conditon';
+const String alreadyHaveAccount = 'Already have an account ? ';
+//homepage
+const String searchbarText = 'Search by keyword or Product ID';
+const String allProduct = 'All Products';
+const String women = 'Women';
+const String men = 'Men';
+const String kids = 'Kids';
+const String electonics = 'Electonics';
+const String kitchen = 'Kitchen';
+const String kurti_suit = 'Kurti & Suit';
+const String westernWear = 'Western Wear';
+const String mall = 'Mall';
+const String saree = 'Saree';
+const String jwellery = 'Jwellery';
+const String lehengas = 'Lehengas';
+const String category = 'Category';
+const String dailydeals = 'Daily Deals';
+const String gown = 'Gown';
+const String sharara = 'Sharara';
+const String bachatbazar = 'Bachat Bazaar';
+const String moreproduct = 'More Product';
+const String addtocart = 'Add to Cart';
+const String buynow = 'Buy Now';
+const String description = 'Description';
+//category page
+const String img1 = 'Women Dress';
+const String img2 = 'Men Clothing and Fasion';
+const String img3 = 'Computer & Accessories';
+const String img4 = 'Home Decore';
+const String img5 = 'Jewelery';
+const String img6 = 'CellPhone & Tab';
+const String img7 = 'Furniture';
+const String img8 = 'Footwear';
+const String img9 = 'Sports';
+//item setting
+const String viedo = 'Viedo',
+    reviews = 'Reviews',
+    sellerPolicy = 'Seller Policy',
+    returnPolicy = 'Return Policy',
+    supportPolicy = 'Support Policy',
+    productsLike = 'Products you may like';
+//cart
+const String cartisEmpty = 'Cart is Empty!!!';
+//popupmenu
+const String edit = 'Edit',
+    setting = 'Setting',
+    logout = 'LogOut';
+//myprofile
+const String profile = 'Profile',
+    help = 'Help Center',
+    changelanguage = 'Change Language',
+    bankandUPIdetailes = 'My bank & UPI details',
+    mysharedProducts = 'My shared Products',
+    myviewedProd = 'My viewed Products',
+    mypayments = 'My Payments',
+    meeshoCredits = 'Meesho Credits',
+    legalAndPolicies = 'Legal and Policies';

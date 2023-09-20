@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508505676508",
+    "project_id": "meesho-74328",
+    "storage_bucket": "meesho-74328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508505676508:android:43d2a09d04e801d793f219",
+        "android_client_info": {
+          "package_name": "com.example.meesho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508505676508-vgukuttuot3qkuq7ni8qv0ddr7hu1kti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meesho",
+            "certificate_hash": "bc250c98e2cb008d67af36d0b6c2ac2d1a851c1f"
+          }
+        },
+        {
+          "client_id": "508505676508-p8gv7ls21v60rt8njkqqcjaleouvfir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgzmC-Jqa_Fh9mdMofH5z741BZEnCG2mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508505676508-p8gv7ls21v60rt8njkqqcjaleouvfir4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

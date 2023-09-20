@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name":"Women Dress",
+      "subcategory": [
+        "Wedding & Event",
+        "Tops & Sets",
+        "Watches"
+      ]
+    },
+    {
+      "name":"Men Clothing and Fasion",
+      "subcategory": [
+        "OutWear & Jackets",
+        "Formal Dress",
+        "Accessories"
+      ]
+    },
+    {
+      "name":"Computer & Accessories",
+      "subcategory": [
+        "Laptop",
+        "Gaming PC",
+        "Official Equipmet"
+      ]
+    },
+    {
+      "name":"Home Decore",
+      "subcategory": [
+        "FlowerPots & Chandeliers",
+        "Archway & More",
+        "Home Wall Decore"
+      ]
+    },
+    {
+      "name":"Jewelery",
+      "subcategory": [
+        "Necklace",
+        "Earing",
+        "Gold"
+      ]
+    },
+    {
+      "name":"CellPhone & Tab",
+      "subcategory": [
+        "SmartPhone",
+        "Tablets",
+        "Accessories"
+      ]
+    },
+    {
+      "name":"Furniture",
+      "subcategory": [
+        "Sofa",
+        "Bed",
+        "Home Textile"
+      ]
+    },
+    {
+      "name":"Footwear",
+      "subcategory": [
+        "Women",
+        "Men",
+        "Kids"
+      ]
+    },
+    {
+      "name":"Sports",
+      "subcategory": [
+        "Ouedoor game Accessories",
+        "Indoor game Accessories",
+        "Sportswear"
+      ]
+    }
+  ]
+}
